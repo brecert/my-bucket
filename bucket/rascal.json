@@ -1,0 +1,14 @@
+{
+    "homepage": "https://www.rascal-mpl.org/",
+    "description": "Rascal is an experimental domain specific language for metaprogramming, such as static code analysis, program transformation and implementation of domain specific languages",
+    "version": "rascal-shell-stable",
+    "url": "http://update.rascal-mpl.org/console/rascal-shell-stable.jar#/rascal.jar",
+    "hash": "md5:8d11b9b296645130f845e4fb9aa2344e",
+    "suggest": {
+        "JDK": [
+            "java/oraclejdk",
+            "java/openjdk"
+        ]
+    },
+    "bin": "rascal.jar"
+}
