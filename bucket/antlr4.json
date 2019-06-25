@@ -12,7 +12,7 @@
     },
     "bin": [
       "antlr4.jar",
-      ["java -cp bin/antlr4.jar org.antlr.v4.Tool", "antlr4"],
-      ["java -cp bin/antlr4.jar org.antlr.v4.Tool", "grun"]
+      ["java -cp antlr4.jar org.antlr.v4.Tool", "antlr4"],
+      ["java -cp antlr4.jar org.antlr.v4.Tool", "grun"]
     ]
 }
