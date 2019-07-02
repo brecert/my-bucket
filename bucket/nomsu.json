@@ -1,7 +1,7 @@
 {
+    "version": "7.0.0",
     "homepage": "https://nomsu.org/",
     "description": "an easy-to-read programming language that's good at modifying its own rules on the fly",
-    "version": "7.0.0",
     "url": "https://nomsu.org/releases/nomsu-$version.zip",
     "hash": "18198843f8384e62c514129cd2f7c622615f3258db16f0f301c8b616eb163a0b",
     "depends": "lua-for-windows",
