@@ -1,0 +1,8 @@
+{
+    "homepage": "https://nomsu.org/",
+    "description": "an easy-to-read programming language that's good at modifying its own rules on the fly",
+    "version": "7.0.0",
+    "url": "https://nomsu.org/releases/nomsu-windows.zip#/nomsu.zip",
+    "extract_dir": "nomsu",
+    "bin": "nomsu$version"
+}
