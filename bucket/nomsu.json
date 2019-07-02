@@ -2,9 +2,20 @@
     "version": "7.0.0",
     "homepage": "https://nomsu.org/",
     "description": "an easy-to-read programming language that's good at modifying its own rules on the fly",
-    "url": "https://nomsu.org/releases/nomsu-$version.zip#/nomsu.zip",
+    "url": "https://nomsu.org/releases/nomsu-7.0.0.zip",
     "hash": "18198843f8384e62c514129cd2f7c622615f3258db16f0f301c8b616eb163a0b",
     "depends": "lua-for-windows",
-    "extract_dir": "nomsu-$version",
+    "extract_dir": "nomsu-7.0.0",
+    
+    "checkver": {
+        "url": "https://nomsu.org/releases/",
+        "re": "nomsu-([\\d.]+).zip"
+    },
+    
+    "autoupdate": {
+        "url": "https://nomsu.org/releases/nomsu-$version.zip",
+        "extract_dir": "nomsu-$version"
+    },
+    
     "bin": "nomsu.lua"
 }
