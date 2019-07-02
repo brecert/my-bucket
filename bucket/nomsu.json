@@ -4,7 +4,6 @@
     "version": "7.0.0",
     "url": "https://nomsu.org/releases/nomsu-windows.zip",
     "hash": "18198843f8384e62c514129cd2f7c622615f3258db16f0f301c8b616eb163a0b",
-    "extract_from": ".",
-    "extract_to": ".",
+    "extract_from": "nomsu_windows",
     "bin": [[ "nomsu7.0.0.exe", "nomsu" ]]
 }
