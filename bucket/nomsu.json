@@ -5,5 +5,5 @@
     "url": "https://nomsu.org/releases/nomsu-windows.zip#/nomsu.zip",
     "extract_dir": "",
     "extract_to": "",
-    "bin": [[ "nomsu7.0.0", "nomsu", "" ]]
+    "bin": [[ "nomsu7.0.0.exe", "nomsu", "" ]]
 }
