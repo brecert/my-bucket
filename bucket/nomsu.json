@@ -5,8 +5,7 @@
     "url": "https://nomsu.org/releases/nomsu-7.0.0.zip",
     "hash": "eeb72b568d16c3db110e4e8753b98bd252945589f8a2fb13be4dad950fb6c8d9",
     "depends": "lua-for-windows",
-    "extract_dir": "nomsu-7.0.0",
-    
+ 
     "checkver": {
         "url": "https://nomsu.org/releases/",
         "re": "nomsu-([\\d.]+).zip"
