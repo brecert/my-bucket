@@ -3,7 +3,7 @@
     "description": "an easy-to-read programming language that's good at modifying its own rules on the fly",
     "version": "7.0.0",
     "url": "https://nomsu.org/releases/nomsu-windows.zip#/nomsu.zip",
-    "extract_dir": "nomsu"
+    "extract_dir": "nomsu",
     "extract_to": "",
     "bin": [[ "nomsu7.0.0", "nomsu", "" ]]
 }
