@@ -1,0 +1,9 @@
+{
+    "homepage": "https://luadist.org/",
+    "description": "a true multi-platform package management system that aims to provide both source and binary repository of modules for the Lua programming language",
+    "version": "0.9.8",
+    "url": "https://github.com/LuaDist/Binaries/archive/LuaDist-batteries-0.9.8-Windows-x86.zip",
+    "hash": "a899f99e2ea2aabfe577b8490e198a988b80c5c6d0e6cbf549d70ae81bc2102e",
+    "extract_dir": "Binaries-LuaDist-batteries-0.9.8-Windows-x86",
+    "bin": ["bin/luadist.exe"]
+}
