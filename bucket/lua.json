@@ -1,0 +1,21 @@
+{
+    "##": "because lua doesn't provide pre-compiled binaries use luabinaries",
+    "homepage": "https://www.lua.org/",
+    "description": "a powerful, efficient, lightweight, embeddable scripting language",
+    "version": "5.3.5",
+    "architecture": {
+        "64bit": {
+            "url": "https://sourceforge.net/projects/luabinaries/files/5.3.5/Tools%20Executables/lua-5.3.5_Win64_bin.zip/download",
+            "hash": "ca117293aba74a0959a3643e8509a152555dbf9c46f1ffb7735e32048acd2da5"
+        },
+        "32bit": {
+            "url": "https://sourceforge.net/projects/luabinaries/files/5.3.5/Tools%20Executables/lua-5.3.5_Win32_bin.zip/download",
+            "hash": "e760d10257140629b0bd82ea69ee1723cdddd686c0c00c11e959e5a59be98686"
+        }
+    },
+    "bin": [
+        [ "lua53.exe", "lua" ],
+        [ "luac53.exe", "luac" ],
+        [ "wlua53.exe", "wlua" ]
+    ]
+}
