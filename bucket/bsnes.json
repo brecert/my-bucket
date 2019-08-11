@@ -1,0 +1,11 @@
+{
+    "homepage": "https://bsnes.byuu.org/",
+    "description": "a Super Nintendo / Super Famicom emulator that began development on October 14th, 2004. It is a subset project of higan, and focuses on performance, features, and ease of use.",
+    "version": "108",
+    "url": "https://download.byuu.org/bsnes_v108-windows.7z",
+    "hash": "af60ebc47ddf515712e379e6648a570911aaf1bca892351d73afdfae3a05bb4c",
+    "extract_dir": "bsnes_v108-windows",
+    "bin": [
+        "bsnes.exe",
+    ]
+}
