@@ -1,0 +1,10 @@
+{
+    "homepage": "http://melonds.kuribo64.net/",
+    "description": "aims at providing fast and accurate Nintendo DS emulation",
+    "version": "0.8.2",
+    "url": "http://melonds.kuribo64.net/downloads/melonDS_0.8.2_win64.7z",
+    "hash": "29b78887035b4f62aac0d2e0fa3310e80d06ae266bcac0cf563d47ddf4bd6006",
+    "bin": [
+        "melonDS.exe"
+    ]
+}
