@@ -1,7 +1,8 @@
 {
     "homepage": "https://docs.microsoft.com/en-us/sysinternals/downloads/junction",
-    "description": "aims at providing fast and accurate Nintendo DS emulation",
+    "description": "allows you to create NTFS junctions, and allows you to see if files or directories are actually reparse points",
     "url": "https://download.sysinternals.com/files/Junction.zip",
+    "version": "2016.6.4"
     "hash": "65737caffa2a6196e8a698f749d0032bd6f56045e7e535ccd0833390322019c3",
     "bin": [
         "junction.exe",
