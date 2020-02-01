@@ -2,7 +2,7 @@
     "homepage": "https://github.com/dnasdw/3dstool",
     "description": "An all-in-one tool for extracting/creating 3ds roms.",
     "version": "1.2.6",
-    "url": "https://github.com/dnasdw/3dstool/releases/download/v1.2.6/3dstool.zip#/3ds",
+    "url": "https://github.com/dnasdw/3dstool/releases/download/v1.2.6/3dstool.zip",
     "bin": "3dstool.exe",
     "checkver": "github",
     "autoupdate": {
