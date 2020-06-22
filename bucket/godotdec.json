@@ -1,0 +1,11 @@
+{
+    "homepage": "https://github.com/Bioruebe/godotdec",
+    "description": "A simple unpacker for Godot Engine package files (.pck)",
+    "version": "2.1.0",
+    "url": "https://github.com/Bioruebe/godotdec/releases/download/2.1.0/godotdec.zip",
+    "bin": "godotdec.exe",
+    "checkver": "github",
+    "autoupdate": {
+      "url": "https://github.com/Bioruebe/godotdec/releases/download/$version/godotdec.zip"
+    }
+}
