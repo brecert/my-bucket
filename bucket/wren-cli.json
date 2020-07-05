@@ -1,0 +1,11 @@
+{
+    "homepage": "https://github.com/wren-lang/wren-cli",
+    "description": "A small, fast, class-based concurrent scripting language",
+    "version": "0.3.0",
+    "url": "https://github.com/wren-lang/wren-cli/releases/download/0.3.0/wren_cli-windows-0.3.0.zip",
+    "bin": [["wren_cli-0.3.0.exe", "wren"]],
+    "checkver": "github",
+    "autoupdate": {
+      "url": "https://github.com/Bioruebe/godotdec/releases/download/$version/wren_cli-windows-$version.zip"
+    }
+}
