@@ -3,6 +3,7 @@
     "description": "A small, fast, class-based concurrent scripting language",
     "version": "0.3.0",
     "url": "https://github.com/wren-lang/wren-cli/releases/download/0.3.0/wren_cli-windows-0.3.0.zip",
+    "hash": "019a20dc7d2fdd8aabf172e7deed4d804a39ed9c90992f5c35bd1370813a330e",
     "bin": [["wren_cli-0.3.0.exe", "wren"]],
     "checkver": "github",
     "autoupdate": {
