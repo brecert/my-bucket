@@ -1,0 +1,11 @@
+{
+    "homepage": "https://github.com/JLaferri/gecko",
+    "description": "Gecko code command line tools .",
+    "version": "v3.4.0",
+    "url": "https://github.com/JLaferri/gecko/releases/download/v3.4.0/gecko-tools-v3.4.0.7z",
+    "bin": ["gecko.exe", "powerpc-gecko-as.exe"],
+    "checkver": "github",
+    "autoupdate": {
+      "url": "https://github.com/JLaferri/gecko/releases/download/$version/gecko-tools-$version.7z"
+    }
+}
