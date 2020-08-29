@@ -7,7 +7,7 @@
     "bin": "umodel.exe",
     "checkver": {
         "url": "https://www.gildor.org/en/projects/umodel",
-        "re": "<td width="30%">Updated<br>(.+?)</td>"
+        "re": "<td width=\"30%\">Updated<br>(.+?)</td>"
     },
     "autoupdate": {
         "url": "https://www.gildor.org/down/46/umodel/umodel_win32.zip"
