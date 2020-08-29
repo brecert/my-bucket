@@ -3,6 +3,7 @@
     "description": "Unpack, pack, list, test and mount Unreal Engine 4 .pak archives.",
     "version": "de728f36ee2086215ffeccceb81fafbe98679ea6",
     "url": "https://github.com/panzi/u4pak/archive/de728f36ee2086215ffeccceb81fafbe98679ea6.zip",
+    "hash": "d3560d4c65d31ee1593945cea753ba7892b2ba9ad859310f4643f4e25b7c5efa",
     "pre_install": "Set-Content -Path \"$dir\\u4pack.ps1\" -Value \"python '$dir\\u4pack' @args\"",
     "bin": "u4pack.ps1",
     "suggest": {
