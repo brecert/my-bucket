@@ -3,6 +3,7 @@
     "description": "A tool for conversion of various streamed audio formats used in video games.",
     "version": "1050-3280-gba405509",
     "url": "https://github.com/losnoco/vgmstream/releases/download/r1050-3280-gba405509/test.zip",
+    "hash": "8a2493268570cb5544f3d6ade59a374c29d2605b5d4c7c6149b35c551d475ce4",
     "bin": [
       ["test.exe", "vgmstream"]
     ],
