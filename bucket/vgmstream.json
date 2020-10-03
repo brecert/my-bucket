@@ -1,0 +1,13 @@
+{
+    "homepage": "https://github.com/losnoco/vgmstream",
+    "description": "A tool for conversion of various streamed audio formats used in video games.",
+    "version": "1050-3280-gba405509",
+    "url": "https://github.com/losnoco/vgmstream/releases/download/r1050-3280-gba405509/test.zip",
+    "bin": [
+      ["test.exe", "vgmstream"]
+    ],
+    "checkver": "github",
+    "autoupdate": {
+      "url": "https://github.com/dnasdw/3dstool/releases/download/r$version/3dstool.zip"
+    }
+}
