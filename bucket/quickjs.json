@@ -1,0 +1,14 @@
+{
+    "homepage": "https://github.com/dnasdw/3dstool",
+    "description": "A small and embeddable Javascript engine.",
+    "version": "2020-11-08",
+    "url": "https://bellard.org/quickjs/binary_releases/quickjs-win-x86_64-2020-11-08.zip",
+    "bin": "qjs.exe",
+    "checkver": {
+        "url": "https://bellard.org/quickjs/binary_releases/LATEST.json",
+        "jp": "version"
+    },
+    "autoupdate": {
+      "url": "https://bellard.org/quickjs/binary_releases/quickjs-win-x86_64-$version.zip"
+    }
+}
