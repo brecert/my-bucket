@@ -4,6 +4,7 @@
     "version": "latest",
     "url": "https://formulae.org/download/desktop.zip",
     "hash": "e659ddf7dc0c1ce957c46d43f658c8f337d02507b2745b72e5451d2d1364f327",
+    "pre_install": "Set-Content -Path \"$dir\\formulae.bat\" -Value \"pushd $dir && formulae && popd\"",
     "suggest": {
         "JDK": [
             "java/oraclejdk",
@@ -11,6 +12,14 @@
         ]
     },
     "bin": [
-      ["desktop.jar", "formulae"]
+        "formulae.bat"
+    ],
+    "shortcuts": [
+        "formulae.bat",
+        "Fōrmulæ"
+    ],
+    "persist": [
+        "config",
+        "scripts"
     ]
 }
