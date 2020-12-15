@@ -17,9 +17,5 @@
     "shortcuts": [
         "formulae.bat",
         "Formulae"
-    ],
-    "persist": [
-        "config",
-        "scripts"
     ]
 }
