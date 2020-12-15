@@ -13,9 +13,5 @@
     },
     "bin": [
         "formulae.bat"
-    ],
-    "shortcuts": [
-        "formulae.bat",
-        "Formulae"
     ]
 }
