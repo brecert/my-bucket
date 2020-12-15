@@ -3,7 +3,7 @@
     "description": "a framework, front-end and programming language to do symbolic computation",
     "version": "latest",
     "url": "https://formulae.org/download/desktop.zip",
-    "hash": "E659DDF7DC0C1CE957C46D43F658C8F337D02507B2745B72E5451D2D1364F327",
+    "hash": "e659ddf7dc0c1ce957c46d43f658c8f337d02507b2745b72e5451d2d1364f327",
     "suggest": {
         "JDK": [
             "java/oraclejdk",
