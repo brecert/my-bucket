@@ -1,5 +1,5 @@
 {
-    "homepage": "https://github.com/dnasdw/3dstool",
+    "homepage": "https://bellard.org/quickjs/",
     "description": "A small and embeddable Javascript engine.",
     "version": "2020-11-08",
     "url": "https://bellard.org/quickjs/binary_releases/quickjs-win-x86_64-2020-11-08.zip",
