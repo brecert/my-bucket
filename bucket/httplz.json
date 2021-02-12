@@ -3,7 +3,7 @@
     "description": "a basic http server for hosting a folder fast and simply.",
     "version": "1.11.1",
     "url": "https://github.com/thecoshman/http/releases/download/v1.11.1/http-v1.11.1.exe",
-    "hash": "0c2898b23c5acaca634c65c1f26235a45f8f923a07f8119f3dcdc3bc7be3f54c",
+    "hash": "28ee608e01b3e6efdeb5706449821a3ba9dc9574fb3427a68624d54f7c986b24",
     "bin": [["http-v1.11.1.exe", "httplz"]],
     "checkver": "github",
     "autoupdate": {
