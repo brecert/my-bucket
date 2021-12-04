@@ -1,5 +1,5 @@
 {
-    "homepage": "https://trizen.gitbook.io/sidef-lang/",
+    "homepage": "https://github.com/trizen/sidef",
     "description": "A modern, dynamic, object-oriented programming language, focusing on simplicity, readability and elegance, taking the best from languages like Ruby, Go, Raku and Julia.",
     "version": "3.97.1",
     "url": "https://github.com/trizen/sidef/releases/download/3.97.1/sidef-3.97.1.exe.zip",

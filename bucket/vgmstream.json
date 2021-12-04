@@ -7,8 +7,11 @@
     "bin": [
       ["test.exe", "vgmstream"]
     ],
-    "checkver": "github",
+    "checkver": {
+      "github": "https://github.com/vgmstream/vgmstream",
+      "regex": "tag/r([\\d.]+)"
+    },
     "autoupdate": {
-      "url": "https://github.com/dnasdw/3dstool/releases/download/r$version/3dstool.zip"
+      "url": "https://github.com/vgmstream/vgmstream/releases/download/r$version/vgmstream-win.zip"
     }
 }
