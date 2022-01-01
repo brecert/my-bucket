@@ -1,9 +1,9 @@
 {
     "homepage": "https://github.com/thecoshman/http",
     "description": "a basic http server for hosting a folder fast and simply.",
-    "version": "1.12.1",
-    "url": "https://github.com/thecoshman/http/releases/download/v1.12.1/http-v1.12.1.exe#/httplz.exe",
-    "hash": "1b57f06940e1b66acaf0b2da8f2a02bd6531bb9af171d221562477a12b72613b",
+    "version": "1.12.2",
+    "url": "https://github.com/thecoshman/http/releases/download/v1.12.2/http-v1.12.2.exe",
+    "hash": "000e4c56449ad8ab98c97c6c7015779be8fffdda0547a8a50ba0f179f2b682c0",
     "bin": "httplz.exe",
     "checkver": "github",
     "autoupdate": {

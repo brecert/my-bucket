@@ -1,9 +1,9 @@
 {
     "homepage": "https://github.com/brecert/mc-utils",
     "description": "cli utility functions for minecraft",
-    "version": "0.1.1",
-    "url": "https://github.com/brecert/mc-utils/releases/download/v0.1.1/mc-utils-v0.1.1-windows-x86_64.exe#/mc-utils.exe",
-    "hash": "be04c48f46165f968302079c7dffc1ba8659d60520aa6c2feabfb6ba01cfcac7",
+    "version": "0.2.0",
+    "url": "https://github.com/brecert/mc-utils/releases/download/v0.2.0/mc-utils-v0.2.0-windows-x86_64.exe#/mc-utils.exe",
+    "hash": "5cb062c3afa042275d1c7d917e73742082c329c667ac36ad0ee72acf632ed58d",
     "bin": "mc-utils.exe",
     "checkver": "github",
     "autoupdate": {
