@@ -4,7 +4,7 @@
   "version": "0.30",
   "url": "https://github.com/UPBGE/upbge/releases/download/v0.30/UPBGE-0.30-windows-x86_64.7z#/UPBGE.7z",
   "hash": "ff52a547fd27d487b31ecc5300960b93e425118f64e2a3e638aed5b6018f9cc9",
-  "extract_dir": "UPBGE-$version-windows-x86_64",
+  "extract_dir": "UPBGE-0.30-windows-x86_64",
   "bin": [
     ["blender.exe", "upbge"],
     ["blender-launcher.exe", "upbge-launcher"],
