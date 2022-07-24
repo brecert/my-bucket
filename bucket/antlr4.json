@@ -1,9 +1,9 @@
 {
     "homepage": "https://github.com/antlr/antlr4",
     "description": "a powerful parser generator for reading, processing, executing, or translating structured text or binary files. It's widely used to build languages, tools, and frameworks. From a grammar, ANTLR generates a parser that can build and walk parse trees.",
-    "version": "4.9.3",
-    "url": "https://www.antlr.org/download/antlr-4.9.3-complete.jar#/antlr4.jar",
-    "hash": "afcd40946d3de4d81e28d7c88d467289e0587285d27adb172aecc5494a17df36",
+    "version": "4.10.1",
+    "url": "https://www.antlr.org/download/antlr-4.10.1-complete.jar#/antlr4.jar",
+    "hash": "41949d41f20d31d5b8277187735dd755108df52b38db6c865108d3382040f918",
     "pre_install": "\"@java -cp \"\"$dir\\antlr4.jar\"\" org.antlr.v4.gui.TestRig %*\" | out-file -en oem \"$dir\\grun.cmd\"",
     "suggest": {
         "JDK": [

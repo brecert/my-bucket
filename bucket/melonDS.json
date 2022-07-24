@@ -1,9 +1,9 @@
 {
     "homepage": "https://github.com/Arisotura/melonDS",
     "description": "aims at providing fast and accurate Nintendo DS emulation",
-    "version": "0.9.3",
-    "url": "https://github.com/Arisotura/melonDS/releases/download/0.9.3/melonDS_0.9.3_win_x64.7z",
-    "hash": "29b78887035b4f62aac0d2e0fa3310e80d06ae266bcac0cf563d47ddf4bd6006",
+    "version": "0.9.4",
+    "url": "https://github.com/Arisotura/melonDS/releases/download/0.9.4/melonDS_0.9.4_win_x64.7z",
+    "hash": "8df7ae6293e358dcc4ff9728c72d02886893b89422171f04bb663355fa7faa07",
     "bin": "melonDS.exe",
     "checkver": "github",
     "autoupdate": {
