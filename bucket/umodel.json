@@ -1,8 +1,16 @@
 {
     "homepage": "https://www.gildor.org/en/projects/umodel",
     "description": "a program for viewing and extracting resources from various games made with Unreal Engine",
-    "version": "14-November-2021-16-44",
+    "version": "16-April-2022",
     "url": "https://www.gildor.org/down/47/umodel/umodel_win32.zip",
-    "hash": "58BDA01EB9C2AF2B60B72FC5D391BE022685AF0234BF10375D004D300F80BD60",
-    "bin": "umodel.exe"
+    "hash": "b20631e90b4f9ba0e8ce946a20ba27214cccf6abc5dd228c5583ad0bbecfe194",
+    "bin": "umodel.exe",
+    "checkver": {
+        "url": "https://www.gildor.org/en/projects/umodel",
+        "regex": "Updated<br>(?<day>\\d+) (?<month>\\w+), (?<year>\\d+) - (?<time>\\d+:\\d+)",
+        "replace": "${day}-${month}-${year}"
+    },
+    "autoupdate": {
+        "url": "https://www.gildor.org/down/47/umodel/umodel_win32.zip"
+    }
 }

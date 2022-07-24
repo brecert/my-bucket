@@ -6,12 +6,18 @@
     "hash": "713b766dc6ab39736bac731b3ce67796b1f4353e7d13974ffd9a8098772336b0",
     "bin": [
         [
-            "sidef-3.97.1.exe",
+            "sidef-22.07.exe",
             "sidef"
         ]
     ],
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/trizen/sidef/releases/download/$version/sidef-$version.exe.zip"
+        "url": "https://github.com/trizen/sidef/releases/download/$version/sidef-$version.exe.zip",
+        "bin": [
+            [
+                "sidef-$version.exe",
+                "sidef"
+            ]
+        ]
     }
 }

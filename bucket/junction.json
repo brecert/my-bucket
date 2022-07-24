@@ -2,10 +2,17 @@
     "homepage": "https://docs.microsoft.com/en-us/sysinternals/downloads/junction",
     "description": "allows you to create NTFS junctions, and allows you to see if files or directories are actually reparse points",
     "url": "https://download.sysinternals.com/files/Junction.zip",
-    "version": "2016.6.4",
-    "hash": "65737caffa2a6196e8a698f749d0032bd6f56045e7e535ccd0833390322019c3",
+    "version": "1.07",
+    "hash": "157dbfbcc0e97e99a78ff075534d1aa64d0d6bf4cae942fc4ed9dd5b4285f1bb",
     "bin": [
         "junction.exe",
         "junction64.exe"
-    ]
+    ],
+    "checkver": {
+        "url": "https://docs.microsoft.com/en-us/sysinternals/downloads/junction",
+        "regex": "Junction v(?<version>[\\d.]+)"
+    },
+    "autoupdate": {
+        "url": "https://download.sysinternals.com/files/Junction.zip"
+    }
 }

@@ -1,14 +1,21 @@
 {
-    "homepage": "https://www.rascal-mpl.org/",
+    "homepage": "https://github.com/usethesource/rascal",
     "description": "an experimental domain specific language for metaprogramming, such as static code analysis, program transformation and implementation of domain specific languages",
-    "version": "rascal-shell-stable",
-    "url": "http://update.rascal-mpl.org/console/rascal-shell-stable.jar#/rascal.jar",
-    "hash": "md5:8d11b9b296645130f845e4fb9aa2344e",
+    "version": "0.23.2",
+    "url": "https://github.com/usethesource/rascal/releases/download/v0.23.2/rascal-0.23.2.jar",
+    "hash": "sha1:a94037eed7ab0f7797618f318fa8d5f14f105c78",
     "suggest": {
         "JDK": [
             "java/oraclejdk",
             "java/openjdk"
         ]
     },
-    "bin": "rascal.jar"
+    "bin": "rascal.jar",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/usethesource/rascal/releases/download/v$version/rascal-$version.jar",
+        "hash": {
+            "url": "$url.sha1"
+        }
+    }
 }
